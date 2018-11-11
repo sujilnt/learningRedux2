@@ -1,0 +1,25 @@
+{
+  "name": "learningredux2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compose.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujilnt/learningRedux2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujilnt/learningRedux2/issues"
+  },
+  "homepage": "https://github.com/sujilnt/learningRedux2#readme",
+  "dependencies": {
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.4.1"
+  }
+}
